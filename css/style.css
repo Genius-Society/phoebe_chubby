@@ -9,7 +9,7 @@
 }
 
 body {
-    background-color: #8b2e5b;
+    background-color: #edd8a4;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", 'Roboto', sans-serif;
     font-size: 1.5em;
     color: white;
@@ -32,7 +32,7 @@ body {
 }
 
 #wrapper-background-filter {
-    background-color: #8b2e5bf5;
+    background-color: #edd8a4;
     position: absolute;
     width: 100%;
     height: 100%;
@@ -108,7 +108,7 @@ h2 {
 }
 
 #counter-container>p {
-    text-shadow: #8b2e5b 0 0 10px, #8b2e5b 0 0 10px, #8b2e5b 0 0 10px, #8b2e5b 0 0 10px, #8b2e5b 0 0 10px;
+    text-shadow: #edd8a4 0 0 10px, #edd8a4 0 0 10px, #edd8a4 0 0 10px, #edd8a4 0 0 10px, #edd8a4 0 0 10px;
 }
 
 #global-counter {
@@ -125,7 +125,7 @@ h2 {
 
 #counter-button {
     /* visibility: hidden; */
-    background-color: #50434a;
+    background-color: #4e659a;
     border: none;
     border-radius: 16px;
     color: white;
@@ -144,7 +144,7 @@ h2 {
 }
 
 #counter-button:hover {
-    background-color: #2e2224;
+    background-color: #484f73;
 }
 
 #counter-button:active {

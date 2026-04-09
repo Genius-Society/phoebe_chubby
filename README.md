@@ -1,4 +1,4 @@
-﻿<h1>Kafka Kuru | 卡芙卡转圈圈 | カフカクルへ</h1>
+﻿<h1>Phoebe Chubby | 菲比洗脑网</h1>
 
 [![license](https://img.shields.io/badge/license-CC--BY--NC--SA-74c853.svg)](https://github.com/Genius-Society/kafka-kuru/blob/web/LICENSE)
 [![cloudflare](https://img.shields.io/badge/cloudflare-kafka--kururin-f6821f.svg)](https://kafka-kururin.pages.dev)

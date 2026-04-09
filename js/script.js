@@ -2,10 +2,10 @@ let CACHES = {
     "_": { defaultLanguage: "cn", defaultVOLanguage: "cn" },
     "cn": {
         texts: {
-            "page-title": "卡芙卡转圈圈",
-            "doc-title": "嘣~",
-            "page-descriptions": "给卡芙卡写的小网站，对，就是《崩坏：星穹铁道》星核猎手中<del>听取妈声一片</del>的坏女人！",
-            "counter-descriptions": ["卡麻麻已经嘣~了", "卡芙卡已经转了"],
+            "page-title": "菲比洗脑网",
+            "doc-title": "菲比啾比~",
+            "page-descriptions": "给菲比写的小网站，对，就是《鸣潮》隐海修会中<del>白丝魅魔</del>的表情包之王！",
+            "counter-descriptions": ["菲比已经啾比~了", "菲比已经转了"],
             "counter-unit": ["次", "次圈圈"],
             "counter-button": ["加载中...", "请稍候..."],
             "repository-desc": "GitHub 仓库"
@@ -93,7 +93,7 @@ let CACHES = {
                     }
                 }
             }
-            dict[lang].texts["counter-button"] = ["转圈圈~", "嘣！"];
+            dict[lang].texts["counter-button"] = ["菲比啾比~", "菲比！", "啾比~"];
         }
         progress[1] = promises.length;
         await Promise.all(promises);
@@ -220,7 +220,7 @@ let CACHES = {
             refreshDynamicTexts();
             addBtnEvent();
             counterButton.removeAttribute("disabled");
-            counterButton.innerText = "嘣！";
+            counterButton.innerText = "菲比啾比~";
         });
         $("#show-options-opt").on("click", function () {
             window.open("https://github.com/duiqt/herta_kuru", "_blank");
