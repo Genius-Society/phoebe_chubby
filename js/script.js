@@ -11,17 +11,20 @@ let CACHES = {
             "repository-desc": "GitHub 仓库"
         },
         audioList: [
-            "audio/phoebe_chubby.mp3",
+            "audio/phoebe_chubby_0.mp3",
             "audio/phoebe_chubby_1.mp3",
             "audio/phoebe_chubby_2.mp3",
             "audio/phoebe_chubby_3.mp3",
             "audio/phoebe_chubby_4.mp3",
             "audio/phoebe_chubby_5.mp3",
+            "audio/phoebe_chubby_6.mp3",
+            "audio/phoebe_chubby_7.mp3",
+            "audio/phoebe_0.mp3",
             "audio/phoebe_1.mp3",
             "audio/phoebe_2.mp3",
+            "audio/chubby_0.mp3",
             "audio/chubby_1.mp3",
-            "audio/chubby_2.mp3",
-            "audio/chubby_3.mp3"
+            "audio/chubby_2.mp3"
         ],
         cardImage: "img/card_cn.png"
     },
