@@ -1,3 +1,10 @@
 .vscode/*
 util_*
 rename.sh
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
