@@ -3,7 +3,7 @@
 [![license](https://img.shields.io/badge/license-CC--BY--NC--SA-74c853.svg)](./LICENSE)
 [![cloudflare](https://img.shields.io/badge/cloudflare-phoebe--chubby-f6821f.svg)](https://phoebe-chubby.pages.dev)
 [![ms](https://img.shields.io/badge/modelscope-phoebe__chubby-624aff.svg)](https://www.modelscope.cn/studios/Genius-Society/phoebe_chubby)
-[![bili](https://img.shields.io/badge/bilibili-BV1aYrgYxEcZ-fc8bab.svg)](https://www.bilibili.com/video/BV1aYrgYxEcZ)
+[![bili](https://img.shields.io/badge/bilibili-BV19LkuBHEbJ-fc8bab.svg)](https://www.bilibili.com/video/BV19LkuBHEbJ)
 
 <div align="center"><a href="https://phoebe-chubby.pages.dev"><img src="./img/phoebe.png" style="width:82%;"></a></div>
 
