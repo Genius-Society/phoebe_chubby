@@ -117,7 +117,7 @@ let CACHES = {
             localStorage.setItem("count-v2", localCount);
             triggerRipple(e);
             playKuru();
-            animateKafka();
+            animatePhoebe();
             refreshDynamicTexts();
         });
     };
@@ -151,7 +151,7 @@ let CACHES = {
         });
     }
 
-    function animateKafka() {
+    function animatePhoebe() {
         let id = null;
         const elem = document.createElement("img");
         elem.src = CACHES["gifs"][Math.floor(Math.random() * 3)];
