@@ -26,12 +26,12 @@ let CACHES = {
             "audio/chubby_1.mp3",
             "audio/chubby_2.mp3"
         ],
-        cardImage: "img/card_cn.png"
+        cardImage: "img/card.png"
     },
     gifs: [
-        "img/phoebe1.png",
-        "img/phoebe2.png",
-        "img/phoebe3.png"
+        "img/phoebe_0.png",
+        "img/phoebe_1.png",
+        "img/phoebe_2.png"
     ]
 };
 
