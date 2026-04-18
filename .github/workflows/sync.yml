@@ -1,4 +1,4 @@
-name: Sync File from URL
+name: Sync Files from ModelScope
 
 on:
   schedule:
@@ -34,7 +34,7 @@ jobs:
             git config --global user.name "admin"
             git config --global user.email "admin@noreply.com"
             git add .
-            git commit -m "Auto update at $(date +%Y-%m-%d)"
+            git commit -m "Auto sync at $(date +%Y-%m-%d)"
             git push origin main
           else
             echo "Files are the same, no changes."
