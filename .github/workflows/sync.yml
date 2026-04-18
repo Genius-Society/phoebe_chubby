@@ -23,7 +23,7 @@ jobs:
         run: |
           git clone https://www.modelscope.cn/studios/Genius-Society/phoebe_chubby.git ms_repo
           rm -rf ./ms_repo/.git
-          mv -f ./ms_repo/* ./
+          rsync -av --delete ms_repo/ ./
           rm -rf ms_repo
 
       # Step 3: 比较文件是否发生变化
