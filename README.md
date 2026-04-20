@@ -1,5 +1,6 @@
 ﻿<h1>Phoebe Chubby | 菲比洗脑网</h1>
 
+[![auto-sync](https://github.com/Genius-Society/phoebe_chubby/actions/workflows/auto-sync.yml/badge.svg)](https://github.com/Genius-Society/phoebe_chubby/actions/workflows/auto-sync.yml)
 [![license](https://img.shields.io/badge/license-CC--BY--NC--SA-74c853.svg)](./LICENSE)
 [![cloudflare](https://img.shields.io/badge/cloudflare-phoebe--chubby-f6821f.svg)](https://phoebe-chubby.pages.dev)
 [![ms](https://img.shields.io/badge/modelscope-phoebe__chubby-624aff.svg)](https://www.modelscope.cn/studios/Genius-Society/phoebe_chubby)
