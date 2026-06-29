@@ -161,7 +161,7 @@ let CACHES = {
         elem.src = CACHES["gifs"][Math.floor(Math.random() * 3)];
         elem.style.position = "absolute";
         elem.style.right = "-500px";
-        elem.style.top = counterButton.getClientRects()[0].bottom + scrollY - 490 + "px"
+        elem.style.top = counterButton.getClientRects()[0].bottom + scrollY - 486 + "px"
         elem.style.zIndex = "-10";
         document.body.appendChild(elem);
         let pos = -500;
