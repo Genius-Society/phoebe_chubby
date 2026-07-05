@@ -102,8 +102,8 @@ let CACHES = {
             if (Array.isArray(gifList)) {
                 for (let i = 0; i < gifList.length; i++) {
                     const url = gifList[i];
-                    if (typeof url === "string" && url.endsWith(".gif")) {
-                        promises.push(loadAndEncode(url, "image/gif").then(result => dict["gifs"][i] = result));
+                    if (typeof url === "string" && url.endsWith(".png")) {
+                        promises.push(loadAndEncode(url, "image/png").then(result => dict["gifs"][i] = result));
                     }
                 }
             }
