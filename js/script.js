@@ -239,9 +239,6 @@ let CACHES = {
         $("#show-options-opt").on("click", function () {
             window.open("https://github.com/Genius-Society/kafka_kuru", "_blank");
         });
-        $("#show-gif-src").on("click", function () {
-            window.open("https://www.kurobbs.com/mc/home/9", "_blank");
-        });
         $("#show-audio-src").on("click", function () {
             window.open("https://www.bilibili.com/video/BV19LkuBHEbJ", "_blank");
         });
