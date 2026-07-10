@@ -6,6 +6,7 @@
 [![ms](https://img.shields.io/badge/modelscope-phoebe__chubby-624aff.svg)](https://www.modelscope.cn/studios/Genius-Society/phoebe_chubby)
 [![ytb](https://img.shields.io/badge/youtube-rK0q--XuTLxw-ff0033.svg)](https://www.youtube.com/watch?v=rK0q-XuTLxw)
 [![bili](https://img.shields.io/badge/bilibili-BV19LkuBHEbJ-fc8bab.svg)](https://www.bilibili.com/video/BV19LkuBHEbJ)
+[![wx](https://img.shields.io/badge/wechat-modelscope-1aad19.svg)](https://mp.weixin.qq.com/s/uJ6OC_X4VALwulFmEX7fxQ)
 
 <div align="center"><a href="https://phoebe-chubby.pages.dev"><img src="./img/phoebe.png"></a></div>
 
